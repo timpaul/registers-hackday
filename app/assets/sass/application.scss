@@ -4,14 +4,14 @@
 .ui-autocomplete {
   padding: 0;
   list-style: none;
-  background-color: #fff;
+  background-color: $white;
   width: 218px;
-  border: 1px solid #B0BECA;
+  border: 1px solid $border-colour;
   max-height: 350px;
   overflow-x: hidden;
 }
 .ui-autocomplete .ui-menu-item {
-  border-top: 1px solid #B0BECA;
+  border-top: 1px solid $border-colour;
   display: block;
   padding: 4px 6px;
   color: #353D44;
